@@ -1,0 +1,16 @@
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\bin\Debug\net8.0-windows\MoveEstimator.exe
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\bin\Debug\net8.0-windows\MoveEstimator.deps.json
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\bin\Debug\net8.0-windows\MoveEstimator.runtimeconfig.json
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\bin\Debug\net8.0-windows\MoveEstimator.dll
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\bin\Debug\net8.0-windows\MoveEstimator.pdb
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\MoveEstimator.Form1.resources
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\MoveEstimator.csproj.GenerateResource.cache
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\MoveEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\MoveEstimator.AssemblyInfoInputs.cache
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\MoveEstimator.AssemblyInfo.cs
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\MoveEstimator.csproj.CoreCompileInputs.cache
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\MoveEstimator.dll
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\refint\MoveEstimator.dll
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\MoveEstimator.pdb
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\MoveEstimator.genruntimeconfig.cache
+C:\Users\chico\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0-windows\ref\MoveEstimator.dll
